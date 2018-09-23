@@ -12,7 +12,7 @@ serve the provided `index.html`. The HTML file will automatically load
     `this`
 2.  Explain the difference between `call()` and `apply()` in the way you pass
     arguments to the target function
-3.  Use `bind()` to create new functions that are associated to specified
+3.  Use `bind()` to create new functions that are associated to specified abc
     _contexts_
 3.  Use `bind()` to execute functions asynchronously
 
